@@ -8298,6 +8298,8 @@ button.close {
 .navbar {
   background-color: #303030;
   border-color: transparent; }
+  .navbar p {
+    color: white; }
 
 .jumbotron {
   padding-top: 240px;
